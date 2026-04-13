@@ -1,0 +1,26 @@
+{
+  "name": "odin_restaurantpage",
+  "version": "1.0.0",
+  "description": "Homepage for a restaurant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nir-web/odin_restaurantpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nir-web/odin_restaurantpage/issues"
+  },
+  "homepage": "https://github.com/nir-web/odin_restaurantpage#readme",
+  "devDependencies": {
+    "webpack": "^5.106.1",
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
